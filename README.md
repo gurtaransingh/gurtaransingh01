@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gurtaran Singh</h1>
-<h3 align="center">COE TIET'24 || Founder-Gaming Geeks || Secretariat-Thapar MUN Society || NCC Cadet and Grade-A achiever || District Badminton, Chess</h3>
+<h3 align="center">COE TIET'24 || Founder & Marketing Head-Gaming Geeks || x-Secretariat-Thapar MUN Society || NCC Cadet and Grade-A achiever || District Badminton, Chess</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurtaransingh01&label=Profile%20views&color=0e75b6&style=flat" alt="gurtaransingh01" /> </p>
 
