@@ -38,7 +38,7 @@
   
 <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://drive.google.com/file/d/1CVR0mA0k_fg7qd3ciWKj-075qLeihVEN/view?usp=sharing" /></a></p><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurtaransingh01&show_icons=true&theme=onedark&locale=en&layout=compact" alt="gurtaransingh01" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurtaransingh01&show_icons=true&theme=onedark&locale=en&layout=compact" alt="gurtaransingh01" /></p><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurtaransingh01&show_icons=true&theme=onedark&locale=en" alt="gurtaransingh01" /></p>
 
