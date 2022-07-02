@@ -36,7 +36,7 @@
 <h3 align="left">Stats:</h3>
 <!-- <p><a href="https://drive.google.com/file/d/1CVR0mA0k_fg7qd3ciWKj-075qLeihVEN/view?usp=sharing"> -->
   
-<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://drive.google.com/file/d/1CVR0mA0k_fg7qd3ciWKj-075qLeihVEN/view?usp=sharing" /></a></p>
+<!-- <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://drive.google.com/file/d/1CVR0mA0k_fg7qd3ciWKj-075qLeihVEN/view?usp=sharing" /></a></p> -->
 
 <p><br><br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurtaransingh01&show_icons=true&theme=onedark&locale=en&layout=compact" alt="gurtaransingh01" /></p><br>
 
