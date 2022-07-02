@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [http://gurtaran.netlify.app/](http://gurtaran.netlify.app/)
 
-- 📝 Currently studing under Mentor [Dr. PS Rana, CSED, TIET](Dr. PS Rana, CSED, TIET)
+- 📝 Currently studing under Mentor [Dr. PS Rana, CSED, TIET](https://www.psrana.com/)
 
-- 💬 Chat with me **wa.me/+919316501336**
+- 💬 Chat with me **https://wa.me/+919316501336**
 
 - 📫 How to reach me **gurtaransingh01@gmail.com or gsingh13_be20@thapar.edu**
 
-- 📄 Get my Resume [https://drive.google.com/file/d/1DCVNX2N4xBB-7SROgDMOLczVukf08QGw/view?usp=sharing](https://drive.google.com/file/d/1DCVNX2N4xBB-7SROgDMOLczVukf08QGw/view?usp=sharing)
+- 📄 Get my Resume [here](https://drive.google.com/file/d/1DCVNX2N4xBB-7SROgDMOLczVukf08QGw/view?usp=sharing)
 
 - ⚡ Fun fact **Knowledge is temporary, Experience is permanent, Person having both is Successful**
 
