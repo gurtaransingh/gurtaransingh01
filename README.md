@@ -52,4 +52,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurtaransingh01&theme=dark" alt="gurtaransingh01" /></p>
 
 
-<p align="center"> <img src="https://blush.design/api/download?shareUri=yqIP6UOvAWpxXq-d&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" alt="gurtaransingh01" /> </p>
+<p align="center"> <img src="https://blush.design/api/download?shareUri=yqIP6UOvAWpxXq-d&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="10%" height="50%" alt="gurtaransingh01" /> </p>
