@@ -1,7 +1,8 @@
 
-<p align="center"> <img src="https://blush.design/api/download?shareUri=yqIP6UOvAWpxXq-d&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="10%" height="50%" alt="gurtaransingh01" /> </p><h1 align="left"> <img src="https://blush.design/api/download?shareUri=Nd5cfo9FMtAS8oL0&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="10%" height="10%" alt="gurtaransingh01" />I'm Gurtaran Singh
+<p align="center"> <img src="https://blush.design/api/download?shareUri=yqIP6UOvAWpxXq-d&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="10%" height="50%" alt="gurtaransingh01" /> </p>
+<h0 align="left"> <img src="https://blush.design/api/download?shareUri=Nd5cfo9FMtAS8oL0&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="10%" height="10%" alt="gurtaransingh01" />I'm Gurtaran Singh
 <p>
-    </p></h1>
+    </p></h0>
 <h3 align="center">COE TIET'24 || Founder - Gaming Geeks || Data Analyst & Technical Advisor - Anaitik || Frontend Developer - Code8 & ACC || xSecretariat-Thapar MUN Society || NCC Cadet and Grade-A achiever</h3>
 
 
