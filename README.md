@@ -5,16 +5,21 @@
 <p align="left"> <img src="https://blush.design/api/download?shareUri=Nd5cfo9FMtAS8oL0&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" alt="gurtaransingh01" /> </p>
 </div> -->
 
+
+<!-- 
 <style>
-  <div class="img">
-<p align="left"> <img src="https://blush.design/api/download?shareUri=Nd5cfo9FMtAS8oL0&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" alt="gurtaransingh01" /> 
-  #img{
+  <div class="img"> -->
+<p align="left"> <img src="https://blush.design/api/download?shareUri=Nd5cfo9FMtAS8oL0&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="50%" height="50%" alt="gurtaransingh01" /> 
+    </p>
+<!--   #img{
   height:50%;
   width:50%;
   }
-  </p>
+
 </div>
-  </style>
+  </style> -->
+
+
 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurtaransingh01&label=Profile%20views&color=ff4013&style=plastic" alt="gurtaransingh01" /> </p>
