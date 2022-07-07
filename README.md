@@ -1,7 +1,9 @@
 <h1 align="center">Hello 👋, I'm Gurtaran Singh</h1>
 <h3 align="center">COE TIET'24 || Founder - Gaming Geeks || Data Analyst & Technical Advisor - Anaitik || Frontend Developer - Code8 & ACC || xSecretariat-Thapar MUN Society || NCC Cadet and Grade-A achiever</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gurtaransingh01&label=Profile%20views&color=ff4013&style=plastic" alt="gurtaransingh01" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=gurtaransingh01&label=Profile%20views&color=ff4013&style=plastic" alt="gurtaransingh01" /> </p>
+
+
 
 - 🔭 I’m currently working on **AI/ML || Deep Learning**
 
