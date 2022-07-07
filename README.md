@@ -1,15 +1,19 @@
 <h1 align="center">Hello 👋, I'm Gurtaran Singh</h1>
 <h3 align="center">COE TIET'24 || Founder - Gaming Geeks || Data Analyst & Technical Advisor - Anaitik || Frontend Developer - Code8 & ACC || xSecretariat-Thapar MUN Society || NCC Cadet and Grade-A achiever</h3>
 
-<div class="img">
+<!-- <div class="img">
 <p align="left"> <img src="https://blush.design/api/download?shareUri=Nd5cfo9FMtAS8oL0&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" alt="gurtaransingh01" /> </p>
-</div>
+</div> -->
 
 <style>
+  <div class="img">
+<p align="left"> <img src="https://blush.design/api/download?shareUri=Nd5cfo9FMtAS8oL0&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" alt="gurtaransingh01" /> 
   #img{
   height:50%;
   width:50%;
   }
+  </p>
+</div>
   </style>
 
   
