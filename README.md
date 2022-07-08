@@ -2,6 +2,11 @@
 <p align="center"> 
     <img src="https://blush.design/api/download?shareUri=yqIP6UOvAWpxXq-d&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="5%" height="5%" alt="gurtaransingh01" />
     
+    <video width="320" height="240" controls>
+  <source src="https://drive.google.com/file/d/1IWkr-yxvHA1B5H_HSu-f-UD0JP4aPS7R/view?usp=sharing" type="video/mp4">
+  <source src="https://drive.google.com/file/d/1IWkr-yxvHA1B5H_HSu-f-UD0JP4aPS7R/view?usp=sharing" type="video/ogg">
+Your browser does not support the video tag.
+</video>
     <img src="https://drive.google.com/file/d/1IWkr-yxvHA1B5H_HSu-f-UD0JP4aPS7R/view?usp=sharing" width="5%" height="5%" alt="gurtaransingh01" />
     
     https://drive.google.com/file/d/1IWkr-yxvHA1B5H_HSu-f-UD0JP4aPS7R/view?usp=sharing
