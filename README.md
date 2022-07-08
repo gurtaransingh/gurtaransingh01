@@ -2,7 +2,7 @@
 <p align="center"> 
     <img src="https://blush.design/api/download?shareUri=yqIP6UOvAWpxXq-d&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="5%" height="5%" alt="gurtaransingh01" />
     
-    
+    <script>
     var x = 0;
 function rollOver() {
     var image1 = "url(https://blush.design/api/download?shareUri=yqIP6UOvAWpxXq-d&c=Skin_0%7Eedb98a&w=800&h=800&fm=png)";
@@ -21,7 +21,7 @@ function rollOver() {
         x = 0;
     }
     }
-    
+    </script>
     
 </p>
 <h1 align="center">  Hello !!    I'm Gurtaran Singh  <img src="https://blush.design/api/download?shareUri=Nd5cfo9FMtAS8oL0&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="4%" height="4%" alt="gurtaransingh01" />
