@@ -4,7 +4,7 @@
     
     
  <p align="center"> 
-    <img src="https://img.freepik.com/premium-vector/software-developer-character-programmer-develops-code-illustration_80590-7310.jpg?w=1060" width="5%" height="5%" alt="gurtaransingh01" />   
+    <img src="https://img.freepik.com/premium-vector/software-developer-character-programmer-develops-code-illustration_80590-7310.jpg?w=1060" alt="gurtaransingh01" />   
     
     
     
