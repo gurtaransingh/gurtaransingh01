@@ -3,30 +3,8 @@
     <img src="https://blush.design/api/download?shareUri=yqIP6UOvAWpxXq-d&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="5%" height="5%" alt="gurtaransingh01" />
     
     
-    
-    <script>
-        var links = ["http://www.abc.com","http://www.def.com","http://www.ghi.com"];
-        var images = ["http://www.abc.com/1.gif","http://www.def.com/2.gif","http://www.ghi.com/3gif"];
-        var i = 0;
-        var renew = setInterval(function(){
-            if(links.length == i){
-                i = 0;
-            }
-            else {
-            document.getElementById("bannerImage").src = images[i]; 
-            document.getElementById("bannerLink").href = links[i]; 
-            i++;
-
-        }
-        },10000);
-        </script>
-
-
-
-<a id="bannerLink" href="http://www.abc.com" onclick="void window.open(this.href); return false;">
-<img id="bannerImage" src="http://www.abc.com/1.gif" width="694" height="83" alt="some text">
-</a>
-    
+ <p align="center"> 
+    <img src="https://img.freepik.com/premium-vector/software-developer-character-programmer-develops-code-illustration_80590-7310.jpg?w=1060" width="5%" height="5%" alt="gurtaransingh01" />   
     
     
     
