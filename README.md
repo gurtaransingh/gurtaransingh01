@@ -2,27 +2,9 @@
 <p align="center"> 
     <img src="https://blush.design/api/download?shareUri=yqIP6UOvAWpxXq-d&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="5%" height="5%" alt="gurtaransingh01" />
     
-    <script>
-    var x = 0;
-function rollOver() {
-    var image1 = "url(https://blush.design/api/download?shareUri=yqIP6UOvAWpxXq-d&c=Skin_0%7Eedb98a&w=800&h=800&fm=png)";
-    var image2 = "url(https://blush.design/api/download?shareUri=Nd5cfo9FMtAS8oL0&c=Skin_0%7Eedb98a&w=800&h=800&fm=png)";
-    var image3 = "url(https://blush.design/api/download?shareUri=yqIP6UOvAWpxXq-d&c=Skin_0%7Eedb98a&w=800&h=800&fm=png)";
-    var array11 = [image1,image2,image3];
-
-    if (x == 0){
-        document.getElementById("myButton").style.backgroundImage = array11[x];
-        x++;
-    } else if (x == 1) {
-        document.getElementById("myButton").style.backgroundImage = array11[x];
-        x++;
-    } else if (x == 2) {
-        document.getElementById("myButton").style.backgroundImage = array11[x];
-        x = 0;
-    }
-    }
-    </script>
+    <img src="https://drive.google.com/file/d/1IWkr-yxvHA1B5H_HSu-f-UD0JP4aPS7R/view?usp=sharing" width="5%" height="5%" alt="gurtaransingh01" />
     
+    https://drive.google.com/file/d/1IWkr-yxvHA1B5H_HSu-f-UD0JP4aPS7R/view?usp=sharing
 </p>
 <h1 align="center">  Hello !!    I'm Gurtaran Singh  <img src="https://blush.design/api/download?shareUri=Nd5cfo9FMtAS8oL0&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="4%" height="4%" alt="gurtaransingh01" />
 <p>
