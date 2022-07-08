@@ -1,16 +1,24 @@
-
+<!-- 
 <p align="center"> 
-    <img src="https://blush.design/api/download?shareUri=yqIP6UOvAWpxXq-d&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="5%" height="5%" alt="gurtaransingh01" />
+    
+<a href="https://ibb.co/CJg9Sqd"><img src="https://i.ibb.co/JxVpSNL/240-F-502133071-NSrx-OU4r-Id-S34n0-On0-GDOIJVm-Jnwne-Kt.jpg" alt="240-F-502133071-NSrx-OU4r-Id-S34n0-On0-GDOIJVm-Jnwne-Kt" width="150%" height="10%"  border="0"></a>
     
     
+    <img src="https://blush.design/api/download?shareUri=C3rahHPESaD8JSw9&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="10%" height="10%" alt="gurtaransingh01" />
+    <img src="https://blush.design/api/download?shareUri=DFwJpfdEwJCHeIr2&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="10%" height="10%" alt="gurtaransingh01" />
+    <img src="https://blush.design/api/download?shareUri=C3rahHPESaD8JSw9&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="10%" height="10%" alt="gurtaransingh01" />
+    
+    
+    
+    https://blush.design/api/download?shareUri=C3rahHPESaD8JSw9&c=Skin_0%7Eedb98a&w=800&h=800&fm=png
  <p align="center"> 
     <img src="https://img.freepik.com/premium-vector/software-developer-character-programmer-develops-code-illustration_80590-7310.jpg?w=1060" alt="gurtaransingh01" />   
-    
+     -->
     
     
     
 </p>
-<h1 align="center">  Hello !!    I'm Gurtaran Singh  <img src="https://blush.design/api/download?shareUri=Nd5cfo9FMtAS8oL0&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="4%" height="4%" alt="gurtaransingh01" />
+<h1 align="center"><img src="https://blush.design/api/download?shareUri=Nd5cfo9FMtAS8oL0&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="4%" height="4%" alt="gurtaransingh01" />  Hello!!    I'm Gurtaran Singh  <img src="https://blush.design/api/download?shareUri=Nd5cfo9FMtAS8oL0&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="4%" height="4%" alt="gurtaransingh01" />
 <p>
     </p></h1>
 <h3 align="center">COE TIET'24 || Founder - Gaming Geeks || Data Analyst & Technical Advisor - Anaitik || Frontend Developer - Code8 & ACC || xSecretariat-Thapar MUN Society || NCC Cadet and Grade-A achiever</h3>
