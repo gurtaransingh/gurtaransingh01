@@ -2,14 +2,35 @@
 <p align="center"> 
     <img src="https://blush.design/api/download?shareUri=yqIP6UOvAWpxXq-d&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="5%" height="5%" alt="gurtaransingh01" />
     
-    <video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/1IWkr-yxvHA1B5H_HSu-f-UD0JP4aPS7R/view?usp=sharing" type="video/mp4">
-  <source src="https://drive.google.com/file/d/1IWkr-yxvHA1B5H_HSu-f-UD0JP4aPS7R/view?usp=sharing" type="video/ogg">
-Your browser does not support the video tag.
-</video>
-    <img src="https://drive.google.com/file/d/1IWkr-yxvHA1B5H_HSu-f-UD0JP4aPS7R/view?usp=sharing" width="5%" height="5%" alt="gurtaransingh01" />
     
-    https://drive.google.com/file/d/1IWkr-yxvHA1B5H_HSu-f-UD0JP4aPS7R/view?usp=sharing
+    
+    <script>
+        var links = ["http://www.abc.com","http://www.def.com","http://www.ghi.com"];
+        var images = ["http://www.abc.com/1.gif","http://www.def.com/2.gif","http://www.ghi.com/3gif"];
+        var i = 0;
+        var renew = setInterval(function(){
+            if(links.length == i){
+                i = 0;
+            }
+            else {
+            document.getElementById("bannerImage").src = images[i]; 
+            document.getElementById("bannerLink").href = links[i]; 
+            i++;
+
+        }
+        },10000);
+        </script>
+
+
+
+<a id="bannerLink" href="http://www.abc.com" onclick="void window.open(this.href); return false;">
+<img id="bannerImage" src="http://www.abc.com/1.gif" width="694" height="83" alt="some text">
+</a>
+    
+    
+    
+    
+    
 </p>
 <h1 align="center">  Hello !!    I'm Gurtaran Singh  <img src="https://blush.design/api/download?shareUri=Nd5cfo9FMtAS8oL0&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="4%" height="4%" alt="gurtaransingh01" />
 <p>
