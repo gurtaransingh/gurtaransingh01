@@ -72,5 +72,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurtaransingh01&show_icons=true&theme=onedark&locale=en" alt="gurtaransingh01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurtaransingh01&theme=dark" alt="gurtaransingh01" /></p>
-
-
